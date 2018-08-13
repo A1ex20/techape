@@ -1,7 +1,7 @@
 <h1>Techape Programs</h1>
 
 * [x] [Techape 成员成长计划](#membership_growth_program)
-* [ ] [Techape 会员招募计划](#techape_membership)
+* [x] [Techape 会员招募计划](#techape_membership)
 * [x] [Techape 基础视频计划](#beginner_videos)
     * [x] [HTML + CSS](#html_css)
     * [ ] HTML5 + CSS3
