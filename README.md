@@ -1,5 +1,4 @@
 # 前端学习路径&资源
-
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [前端学习路径&资源](#前端学习路径资源)
@@ -10,30 +9,38 @@
 			- [1.3 视频资源](#13-视频资源)
 			- [1.4 大概学习点](#14-大概学习点)
 		- [2. CSS](#2-css)
-			- [1.1 学习参考列表](#11-学习参考列表)
-			- [1.2 在线学习网站资源 (都需要注册账号)](#12-在线学习网站资源-都需要注册账号)
-			- [1.3 视频资源](#13-视频资源)
+			- [2.1 学习参考列表](#21-学习参考列表)
+			- [2.2 在线学习网站资源 (都需要注册账号)](#22-在线学习网站资源-都需要注册账号)
+			- [2.3 视频资源](#23-视频资源)
 		- [3. Javascript](#3-javascript)
-			- [1.1 学习参考列表](#11-学习参考列表)
-			- [1.2 在线学习网站资源 (都需要注册账号)](#12-在线学习网站资源-都需要注册账号)
-			- [1.3 视频资源](#13-视频资源)
+			- [3.1 学习参考列表](#31-学习参考列表)
+			- [3.2 在线学习网站资源 (都需要注册账号)](#32-在线学习网站资源-都需要注册账号)
+			- [3.3 视频资源](#33-视频资源)
 	- [基础之上的延伸！](#基础之上的延伸)
 		- [1. jQuery (JavaScript框架) [可选]](#1-jquery-javascript框架-可选)
 			- [1.1 在线学习网站资源](#11-在线学习网站资源)
 		- [2. Git & Github (分布式版本控制系统 & 源代码托管服务)](#2-git-github-分布式版本控制系统-源代码托管服务)
+			- [2.1 在线学习网站资源](#21-在线学习网站资源)
 		- [3.网页组建 & 整页练习](#3网页组建-整页练习)
+			- [3.1 视频资源](#31-视频资源)
 		- [4. NPM (Node Package Manager) Node包管理器](#4-npm-node-package-manager-node包管理器)
+			- [4.1 在线学习网站资源](#41-在线学习网站资源)
 		- [5. CSS Preprocessor (推荐 SCSS)](#5-css-preprocessor-推荐-scss)
+			- [5.1 在线学习网站资源](#51-在线学习网站资源)
+		- [5.2 SCSS 在线测试工具](#52-scss-在线测试工具)
 		- [6. CSS 框架 （Bootstrap）](#6-css-框架-bootstrap)
+			- [6.1 在线学习网站资源](#61-在线学习网站资源)
 		- [7. 构建开发流程 (npm script)](#7-构建开发流程-npm-script)
+			- [7.1 在线学习网站资源](#71-在线学习网站资源)
 		- [8. 代码检测工具 (ESLint)](#8-代码检测工具-eslint)
+			- [8.1 在线学习网站资源](#81-在线学习网站资源)
 	- [奔向时髦前端开发者的阵容](#奔向时髦前端开发者的阵容)
 		- [1. 选择一个你喜欢的前端框架！(Vue.js | Angular.js | React.js)](#1-选择一个你喜欢的前端框架vuejs-angularjs-reactjs)
+			- [1.1 在线学习网站资源](#11-在线学习网站资源)
 		- [2. 前端测试工具 (Jest | Mocha | ... )](#2-前端测试工具-jest-mocha-)
 		- [3. 前端实战项目](#3-前端实战项目)
 
 <!-- /TOC -->
-
 ## 三个最重要的基础！
 ### 1. HTML
 
@@ -44,7 +51,7 @@
 3. 独立构建出最少5个不同形式的网页（专注于文档模型的构建）
 ```
 
-#### 1.1 学习参考列表 
+#### 1.1 学习参考列表
 * [Mozilla.com HTML标签参考列表 (功能分类) - 英文 🇺🇸](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [Mozilla.com HTML标签参考列表 (功能分类) - 中文 🇨🇳](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element)
 
@@ -58,9 +65,9 @@
 
 * [imooc.com 慕课网 HTML+CSS基础入门 - 中文 🇨🇳](https://www.imooc.com/learn/9)
 
-#### 1.3 视频资源 
+#### 1.3 视频资源
 
-* [imooc.com HTML 入门 - (密码：sdc5)] (https://pan.baidu.com/s/1nr7JRTJVy8Rj5XlapBtjFw)
+* [imooc.com HTML 入门 - (密码：sdc5)](https://pan.baidu.com/s/1nr7JRTJVy8Rj5XlapBtjFw)
 
 #### 1.4 大概学习点
 * [x] 什么是HTML？用什么编辑？
@@ -76,7 +83,7 @@
     * [x] 语意化标签 (semantics elements)
     * [x] 块级元素 (block-level elements)
     * [x] 行内元素 (Inline-level elements)
-* [x] HTML 框架结构 
+* [x] HTML 框架结构
 
     ```html
     <!DOCTYPE html>
@@ -90,7 +97,7 @@
     </body>
     </html>
     ```
-    
+
 * [x] HTML 基础标签
 
     ```HTML
@@ -101,7 +108,7 @@
     <hr>
     <!-- -->
     ```
-    
+
 * [x] 模块
 
     ```HTML
@@ -116,7 +123,7 @@
     <details>
     <nav>
     ```
-    
+
 * [x] HTML 格式化标签
 
     ```HTML
@@ -148,7 +155,7 @@
     <u>
     <var>
     ```
-    
+
 * [x] HTML 列表
 
     ```HTML
@@ -159,13 +166,13 @@
     <dt>
     <dd>
     ```
-    
+
 * [x] HTML 表格
 
     ```HTML
-    <table>	
+    <table>
     <caption>
-    <th>	
+    <th>
     <tr>
     <td>
     <thead>
@@ -174,38 +181,38 @@
     <col>
     <colgroup>
     ```
-    
+
 * [x] 表单
 
     ```HTML
     <form>
-    <input>	
-    <textarea>	
-    <button>	
-    <select>	
+    <input>
+    <textarea>
+    <button>
+    <select>
     <optgroup>
-    <option>	
-    <label>	
-    <fieldset>	
-    <legend>	
+    <option>
+    <label>
+    <fieldset>
+    <legend>
     <datalist>
     ```
-    
+
 * [x] 图片
 
     ```HTML
-    <img>	
-    <map>	
-    <area>	
+    <img>
+    <map>
+    <area>
     <figcaption>
-    <figure>	
+    <figure>
     <picture>
     ```
-    
+
 * [x] 视频/音频
 
     ```HTML
-    <audio>	
+    <audio>
     <source>
     <track>
     <video>
@@ -223,7 +230,7 @@
 4. 能灵活的应用最佳的CSS属性来为HTML润色
 ```
 
-#### 1.1 学习参考列表 
+#### 2.1 学习参考列表
 * [Mozilla.com CSS语法 - 英文 🇺🇸](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 * [Mozilla.com CSS语法 - 中文 🇨🇳](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Syntax)
 
@@ -253,10 +260,10 @@
 * [Mozilla.com Microsoft内核扩展属性 - 英文 🇺🇸](https://developer.mozilla.org/en-US/docs/Web/CSS/Microsoft_extensions)
 * [Mozilla.com Microsoft内核扩展属性 - 中文 🇨🇳](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Microsoft_extensions)
 
-#### 1.2 在线学习网站资源 (都需要注册账号)
+#### 2.2 在线学习网站资源 (都需要注册账号)
 * [freecodecamp.org Basic CSS 课程 - 英文 🇺🇸](https://learn.freecodecamp.org/responsive-web-design/basic-css/change-the-color-of-text)
 
-#### 1.3 视频资源 
+#### 2.3 视频资源
 
 * [imooc.com CSS 入门 - (密码：ybpu)](https://pan.baidu.com/s/1QfZYWPR-3zzPF1ErT6nEww)
 
@@ -271,16 +278,16 @@
 5. 学习ECMAScript 6的新特性
 ```
 
-#### 1.1 学习参考列表 
+#### 3.1 学习参考列表
 <!-- * [Mozilla.com CSS语法 - 英文 🇺🇸](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax) -->
 
-* [待更新 On The Way ...!](javascript:;)
+* [console 对象 - 中文 🇨🇳](http://javascript.ruanyifeng.com/stdlib/console.html)
 
 
-#### 1.2 在线学习网站资源 (都需要注册账号)
+#### 3.2 在线学习网站资源 (都需要注册账号)
 * [freecodecamp.org Basic JS 课程 - 英文 🇺🇸](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)
 
-#### 1.3 视频资源 
+#### 3.3 视频资源
 * [imooc.com JavaScript基础入门](https://class.imooc.com/sc/36/series)
     * [百度云下载地址 (密码 : jpzb)](https://pan.baidu.com/s/1H7FBse8S9yPHfBYNubwCvw)
 
@@ -311,6 +318,22 @@
 2. 了解 github 以及明白如何创建、上传、探索
 ```
 
+#### 2.1 在线学习网站资源
+* [Git 官方文档 - 英文 🇺🇸](https://git-scm.com/docs/gittutorial)
+* [Git 官方文档 - 中文 🇨🇳](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
+
+* [Learn Enough Git to Be Dangerous - 英文 🇺🇸](https://www.learnenough.com/git-tutorial)
+
+* [Git 教程 (廖雪峰) - 中文 🇨🇳](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+* [猴子都能懂的Git入门/高级 - 中文 🇨🇳](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+
+* [Git cheat sheet - 英文 🇺🇸](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+
+* [Git 备忘录 - 中文 🇨🇳](https://services.github.com/on-demand/downloads/zh_CN/github-git-cheat-sheet/)
+
+* [Github 官方引导 - 英文 🇺🇸](https://guides.github.com/)
+
 ### 3.网页组建 & 整页练习
 
 ```text
@@ -319,6 +342,11 @@
 2. 就是用脑子来写代码
 3. 积累一点经验 & 学习更好的实现方式
 ```
+
+#### 3.1 视频资源
+
+* [资源整理中... On The Way!](javascript:;)
+
 
 ### 4. NPM (Node Package Manager) Node包管理器
 
@@ -331,6 +359,16 @@
 5. package 版本说明
 ```
 
+#### 4.1 在线学习网站资源
+
+* [NPM 官方教程 - 英文 🇺🇸](https://docs.npmjs.com/getting-started/what-is-npm)
+
+* [NPM 中文文档 - 中文 🇨🇳](https://www.npmjs.com.cn/)
+
+* [A Beginner’s Guide to npm - 英文 🇺🇸](https://www.sitepoint.com/beginners-guide-node-package-manager/)
+
+* [npm模块管理器 - 中文 🇨🇳](http://javascript.ruanyifeng.com/nodejs/npm.html)
+
 ### 5. CSS Preprocessor (推荐 SCSS)
 
 ```text
@@ -338,6 +376,16 @@
 1. 学习 SCSS 的基本语法
 2. 使用 SCSS 使CSS的开发变得简单和可维护
 ```
+
+#### 5.1 在线学习网站资源
+
+* [SCSS 官方教程 - 英文 🇺🇸](https://sass-lang.com/guide)
+
+* [SCSS 翻译版 - 官方教程 - 中文 🇨🇳](https://www.w3cplus.com/preprocessor/sass-chinese-reference.html)
+
+### 5.2 SCSS 在线测试工具
+
+* [Sassmeister.com](https://www.sassmeister.com/)
 
 ### 6. CSS 框架 （Bootstrap）
 
@@ -347,6 +395,12 @@
 2. 使用 Bootstrap 快速组建页面模块
 ```
 
+#### 6.1 在线学习网站资源
+
+* [Bootstrap 官网文档 3.3 - 英文 🇺🇸](https://getbootstrap.com/docs/3.3/)
+
+* [Bootstrap 中文网 3.3 - 中文 🇨🇳](https://v3.bootcss.com/)
+
 ### 7. 构建开发流程 (npm script)
 
 ```text
@@ -355,6 +409,12 @@
 2. 使用 npm script 来辅助前端工作流
 ```
 
+#### 7.1 在线学习网站资源
+
+* [Introduction to NPM Scripts - 英文 🇺🇸](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
+
+* [npm scripts 使用指南 (阮一峰) - 中文 🇨🇳](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
+
 ### 8. 代码检测工具 (ESLint)
 
 ```text
@@ -362,6 +422,16 @@
 1. 学习 ESLint 最基本的用法和配置
 2. 使用 ESLint 避免低级错误和统一代码的风格
 ```
+
+#### 8.1 在线学习网站资源
+
+* [ESLint 官方文档 - 英文 🇺🇸](https://eslint.org/docs/user-guide/getting-started)
+
+* [ESLint 官方文档 - 中文 🇨🇳](https://cn.eslint.org/docs/user-guide/getting-started)
+
+* [利用 ESLint 检查代码质量 - 中文 🇨🇳](https://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html)
+
+* [ESLint 工具 - 中文 🇨🇳](http://javascript.ruanyifeng.com/tool/lint.html)
 
 ## 奔向时髦前端开发者的阵容
 ### 1. 选择一个你喜欢的前端框架！(Vue.js | Angular.js | React.js)
@@ -372,6 +442,12 @@
 2. 学习全家桶套餐，更好的辅助前端开发
 ```
 
+#### 1.1 在线学习网站资源
+
+* [Vue.js - 中文 🇨🇳](https://vuejs.bootcss.com/v2/guide/)
+
+* [Vue.js - 英文 🇺🇸](https://vuejs.org/v2/guide/)
+
 ### 2. 前端测试工具 (Jest | Mocha | ... )
 
 ```text
@@ -381,5 +457,3 @@
 ```
 
 ### 3. 前端实战项目
-
-
