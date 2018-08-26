@@ -21,7 +21,7 @@
 			- [1.1 在线学习网站资源](#11-在线学习网站资源)
 		- [2. Git & Github (分布式版本控制系统 & 源代码托管服务)](#2-git-github-分布式版本控制系统-源代码托管服务)
 			- [2.1 在线学习网站资源](#21-在线学习网站资源)
-		- [3.网页组建 & 整页练习](#3网页组建-整页练习)
+		- [3.网页组件 & 整页练习](#3网页组件-整页练习)
 			- [3.1 视频资源](#31-视频资源)
 		- [4. NPM (Node Package Manager) Node包管理器](#4-npm-node-package-manager-node包管理器)
 			- [4.1 在线学习网站资源](#41-在线学习网站资源)
@@ -32,8 +32,11 @@
 			- [6.1 在线学习网站资源](#61-在线学习网站资源)
 		- [7. 构建开发流程 (npm script)](#7-构建开发流程-npm-script)
 			- [7.1 在线学习网站资源](#71-在线学习网站资源)
+			- [7.2 视频资源](#72-视频资源)
 		- [8. 代码检测工具 (ESLint)](#8-代码检测工具-eslint)
 			- [8.1 在线学习网站资源](#81-在线学习网站资源)
+		- [9. 综合巩固](#9-综合巩固)
+			- [9.1 视频资源](#91-视频资源)
 	- [奔向时髦前端开发者的阵容](#奔向时髦前端开发者的阵容)
 		- [1. 选择一个你喜欢的前端框架！(Vue.js | Angular.js | React.js)](#1-选择一个你喜欢的前端框架vuejs-angularjs-reactjs)
 			- [1.1 在线学习网站资源](#11-在线学习网站资源)
@@ -67,7 +70,7 @@
 
 #### 1.3 视频资源
 
-* [imooc.com HTML 入门 - (密码：sdc5)](https://pan.baidu.com/s/1nr7JRTJVy8Rj5XlapBtjFw)
+* [imooc.com HTML 入门 - (密码：sdc5)] (https://pan.baidu.com/s/1nr7JRTJVy8Rj5XlapBtjFw)
 
 #### 1.4 大概学习点
 * [x] 什么是HTML？用什么编辑？
@@ -267,6 +270,10 @@
 
 * [imooc.com CSS 入门 - (密码：ybpu)](https://pan.baidu.com/s/1QfZYWPR-3zzPF1ErT6nEww)
 
+* [所向披靡的响应式开发](https://coding.imooc.com/class/50.html)
+    * [百度云下载地址 (密码 : ifug)](https://pan.baidu.com/s/19DD9hfOrWdJb3OnotQ1nLg)
+
+
 ### 3. Javascript
 
 ```text
@@ -288,11 +295,22 @@
 * [freecodecamp.org Basic JS 课程 - 英文 🇺🇸](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)
 
 #### 3.3 视频资源
-* [imooc.com JavaScript基础入门](https://class.imooc.com/sc/36/series)
+
+* [HTTP协议原理+实践  Web开发工程师必学](https://coding.imooc.com/class/225.html)
+    * [百度云下载地址 ( 密码 : jkjx)](https://pan.baidu.com/s/1dTo0MiWL8e53HRx4n0ACvA)
+
+
+* [JavaScript基础入门](https://class.imooc.com/sc/36/series)
     * [百度云下载地址 (密码 : jpzb)](https://pan.baidu.com/s/1H7FBse8S9yPHfBYNubwCvw)
 
-* [imooc.com 进击JavaScript核心](https://class.imooc.com/sc/35/package)
+* [进击JavaScript核心](https://class.imooc.com/sc/35/package)
     * [百度云下载地址 ( 密码 : hvwy)](https://pan.baidu.com/s/13EzVeW_r7N7e8RGVHKs1sg)
+
+* [Javascript 设计模式系统讲解与应用](https://coding.imooc.com/class/255.html)
+    * [百度云下载地址 ( 密码 : vbzi)](https://pan.baidu.com/s/19S7N0PScdO6yE8KUMxAy_w)
+
+* [ES6零基础教学 解析彩票项目](https://coding.imooc.com/class/98.html)
+    * [百度云下载地址 ( 密码 : cr4w)](https://pan.baidu.com/s/1XM0avVWki5wxp9BFmoIzrQ)
 
 
 ## 基础之上的延伸！
@@ -334,7 +352,7 @@
 
 * [Github 官方引导 - 英文 🇺🇸](https://guides.github.com/)
 
-### 3.网页组建 & 整页练习
+### 3.网页组件 & 整页练习
 
 ```text
 【学习目标】
@@ -345,7 +363,14 @@
 
 #### 3.1 视频资源
 
-* [资源整理中... On The Way!](javascript:;)
+* [Web App用组件方式开发全站](https://coding.imooc.com/class/chapter/15.html#Anchor)
+    * [百度云下载地址 ( 密码 : d3v1)](https://pan.baidu.com/s/1IlEWvvPm4NIFT-0brVcGqQ)
+
+* [HTML5开发WebApp阅读器](https://coding.imooc.com/class/13.html)
+    * [百度云下载地址 ( 密码 : 33e3)](https://pan.baidu.com/s/1JWFw5woIzJtrAvnNSe_GmA)
+
+* [Web前后端漏洞分析与防御](https://coding.imooc.com/class/chapter/104.html#Anchor)
+    * [百度云下载地址 ( 密码 : ghh3)](https://pan.baidu.com/s/1AkdhVEEbHvDoBCr0j66nSQ)
 
 
 ### 4. NPM (Node Package Manager) Node包管理器
@@ -415,6 +440,11 @@
 
 * [npm scripts 使用指南 (阮一峰) - 中文 🇨🇳](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
 
+#### 7.2 视频资源
+
+* [用 npm script 打造超溜的前端工作流](https://juejin.im/book/5a1212bc51882531ea64df07)
+    * [百度云下载地址 (密码 : a9bb)](https://pan.baidu.com/s/103ysq8OCknNF-vRybvGVUg)
+
 ### 8. 代码检测工具 (ESLint)
 
 ```text
@@ -432,6 +462,16 @@
 * [利用 ESLint 检查代码质量 - 中文 🇨🇳](https://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html)
 
 * [ESLint 工具 - 中文 🇨🇳](http://javascript.ruanyifeng.com/tool/lint.html)
+
+### 9. 综合巩固
+
+#### 9.1 视频资源
+
+* [全面系统讲解CSS 工作应用+面试一步搞定](https://coding.imooc.com/class/chapter/164.html#Anchor)
+    * [百度云下载地址 (密码 : 8cwu)](https://pan.baidu.com/s/1UpcOLhMTaQ1GOJ8AY610dg)
+
+* [Web前端性能优化 Vue-SSR+PWA 新技术，快速突破Web页面性能的瓶颈](https://coding.imooc.com/class/130.html#Anchor)
+    * [百度云下载地址 (密码 : 3ch9)](https://pan.baidu.com/s/160OzD5GLEU5zQpbBBdSEBA)
 
 ## 奔向时髦前端开发者的阵容
 ### 1. 选择一个你喜欢的前端框架！(Vue.js | Angular.js | React.js)
