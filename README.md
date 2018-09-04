@@ -487,13 +487,14 @@
 * [Vue.js - 中文 🇨🇳](https://vuejs.bootcss.com/v2/guide/)
 
 * [Vue.js - 英文 🇺🇸](https://vuejs.org/v2/guide/)
+#### 1.2 视频资源
+* [imooc.com vue2.5入门](https://www.imooc.com/learn/980)
+
+* [Vue核心技术
+Vue+Vue-Router+Vuex+SSR实战精讲](https://coding.imooc.com/class/196.html)
+    * [哔哩哔哩在线播放](https://www.bilibili.com/video/av26939737?from=search&seid=5141296023366229273)
+    
 
 ### 2. 前端测试工具 (Jest | Mocha | ... )
 
 ```text
-【学习目标】
-1. 学习工具的使用
-2. 使用工具测试我们做的网页App
-```
-
-### 3. 前端实战项目
