@@ -1,4 +1,5 @@
 # 前端学习路径&资源
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [前端学习路径&资源](#前端学习路径资源)
@@ -40,10 +41,12 @@
 	- [奔向时髦前端开发者的阵容](#奔向时髦前端开发者的阵容)
 		- [1. 选择一个你喜欢的前端框架！(Vue.js | Angular.js | React.js)](#1-选择一个你喜欢的前端框架vuejs-angularjs-reactjs)
 			- [1.1 在线学习网站资源](#11-在线学习网站资源)
+			- [1.2 视频资源](#12-视频资源)
 		- [2. 前端测试工具 (Jest | Mocha | ... )](#2-前端测试工具-jest-mocha-)
 		- [3. 前端实战项目](#3-前端实战项目)
 
 <!-- /TOC -->
+
 ## 三个最重要的基础！
 ### 1. HTML
 
@@ -509,7 +512,7 @@
 
 * [Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲](https://coding.imooc.com/class/196.html)
     * [哔哩哔哩在线播放](https://www.bilibili.com/video/av26939737?from=search&seid=5141296023366229273)
-    
+
 
 ### 2. 前端测试工具 (Jest | Mocha | ... )
 
