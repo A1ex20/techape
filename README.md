@@ -519,6 +519,7 @@ Vue+Vue-Router+Vuex+SSR实战精讲](https://coding.imooc.com/class/196.html)
     * [哔哩哔哩在线播放](https://www.bilibili.com/video/av26939737?from=search&seid=5141296023366229273)
 
 #### Angular.js 资源
+* [Angular2视频教程 Angular.js 布道师--大漠穷秋](https://www.bilibili.com/video/av16953560?from=search&seid=16138861730019816559)
 
 #### React.js 资源
 
