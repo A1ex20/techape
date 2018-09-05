@@ -290,6 +290,8 @@
 
 * [console 对象 - 中文 🇨🇳](http://javascript.ruanyifeng.com/stdlib/console.html)
 
+* [腾讯云开发者手册(javascript) - 中文 CN](https://cloud.tencent.com/developer/doc/1121)
+
 
 #### 3.2 在线学习网站资源 (都需要注册账号)
 * [freecodecamp.org Basic JS 课程 - 英文 🇺🇸](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)
@@ -328,6 +330,8 @@
 
 * [Tutorialspoint - 英文 🇺🇸](https://www.tutorialspoint.com/jquery/)
 
+
+
 ### 2. Git & Github (分布式版本控制系统 & 源代码托管服务)
 
 ```text
@@ -338,7 +342,10 @@
 
 #### 2.1 在线学习网站资源
 * [Git 官方文档 - 英文 🇺🇸](https://git-scm.com/docs/gittutorial)
+
 * [Git 官方文档 - 中文 🇨🇳](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
+
+* [腾讯云开发者手册(Git) - 中文 CN](https://cloud.tencent.com/developer/doc/1096)
 
 * [Learn Enough Git to Be Dangerous - 英文 🇺🇸](https://www.learnenough.com/git-tutorial)
 
@@ -488,12 +495,23 @@
 
 * [Vue.js - 英文 🇺🇸](https://vuejs.org/v2/guide/)
 
+* [Angular.js - 英文 US](https://angularjs.org/)
+
+* [腾讯云开发者手册(Angular.js) - 中文 CN](https://cloud.tencent.com/developer/doc/1201)
+
+* [React.js - 英文 US](https://reactjs.org/)
+
+* [腾讯云开发者手册(React.js) - 中文 CN](https://cloud.tencent.com/developer/doc/1201)
+
+
+#### 1.2 视频资源
+* [imooc.com vue2.5入门](https://www.imooc.com/learn/980)
+
+* [Vue核心技术
+Vue+Vue-Router+Vuex+SSR实战精讲](https://coding.imooc.com/class/196.html)
+    * [哔哩哔哩在线播放](https://www.bilibili.com/video/av26939737?from=search&seid=5141296023366229273)
+    
+
 ### 2. 前端测试工具 (Jest | Mocha | ... )
 
 ```text
-【学习目标】
-1. 学习工具的使用
-2. 使用工具测试我们做的网页App
-```
-
-### 3. 前端实战项目
