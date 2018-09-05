@@ -70,7 +70,7 @@
 
 #### 1.3 视频资源
 
-* [imooc.com HTML 入门 - (密码：sdc5)] (https://pan.baidu.com/s/1nr7JRTJVy8Rj5XlapBtjFw)
+* [imooc.com HTML 入门 - (密码：sdc5)](https://pan.baidu.com/s/1nr7JRTJVy8Rj5XlapBtjFw)
 
 #### 1.4 大概学习点
 * [x] 什么是HTML？用什么编辑？
