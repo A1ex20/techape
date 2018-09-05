@@ -1,4 +1,5 @@
 # 前端学习路径&资源
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [前端学习路径&资源](#前端学习路径资源)
@@ -40,11 +41,12 @@
 	- [奔向时髦前端开发者的阵容](#奔向时髦前端开发者的阵容)
 		- [1. 选择一个你喜欢的前端框架！(Vue.js | Angular.js | React.js)](#1-选择一个你喜欢的前端框架vuejs-angularjs-reactjs)
 			- [1.1 在线学习网站资源](#11-在线学习网站资源)
-            - [1.2 视频资源](#12-视频资源)
+      - [1.2 视频资源](#12-视频资源)
 		- [2. 前端测试工具 (Jest | Mocha | ... )](#2-前端测试工具-jest-mocha-)
 		- [3. 前端实战项目](#3-前端实战项目)
 
 <!-- /TOC -->
+
 ## 三个最重要的基础！
 ### 1. HTML
 
@@ -71,7 +73,7 @@
 
 #### 1.3 视频资源
 
-* [imooc.com HTML 入门 - (密码：sdc5)] (https://pan.baidu.com/s/1nr7JRTJVy8Rj5XlapBtjFw)
+* [imooc.com HTML 入门 - (密码：sdc5)](https://pan.baidu.com/s/1nr7JRTJVy8Rj5XlapBtjFw)
 
 #### 1.4 大概学习点
 * [x] 什么是HTML？用什么编辑？
@@ -515,15 +517,12 @@
 #### Vue.js 资源
 * [imooc.com vue2.5入门](https://www.imooc.com/learn/980)
 
-* [Vue核心技术
-Vue+Vue-Router+Vuex+SSR实战精讲](https://coding.imooc.com/class/196.html)
+* [Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲](https://coding.imooc.com/class/196.html)
     * [哔哩哔哩在线播放](https://www.bilibili.com/video/av26939737?from=search&seid=5141296023366229273)
 
 #### Angular.js 资源
-* [Angular2视频教程 Angular.js 布道师--大漠穷秋](https://www.bilibili.com/video/av16953560?from=search&seid=16138861730019816559)
 
 #### React.js 资源
-
 
 ### 2. 前端测试工具 (Jest | Mocha | ... )
 
@@ -534,3 +533,4 @@ Vue+Vue-Router+Vuex+SSR实战精讲](https://coding.imooc.com/class/196.html)
 ```
 
 ### 3. 前端实战项目
+
