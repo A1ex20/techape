@@ -36,8 +36,10 @@
 			- [7.2 视频资源](#72-视频资源)
 		- [8. 代码检测工具 (ESLint)](#8-代码检测工具-eslint)
 			- [8.1 在线学习网站资源](#81-在线学习网站资源)
-		- [9. 综合巩固](#9-综合巩固)
-			- [9.1 视频资源](#91-视频资源)
+        - [9. HTTP](#9-HTTP)
+            - [9.1 在线学习网站资源](#91-在线学习网站资源)
+		- [10. 综合巩固](#10-综合巩固)
+			- [10.1 视频资源](#10-视频资源)
 	- [奔向时髦前端开发者的阵容](#奔向时髦前端开发者的阵容)
 		- [1. 选择一个你喜欢的前端框架！(Vue.js | Angular.js | React.js)](#1-选择一个你喜欢的前端框架vuejs-angularjs-reactjs)
 			- [1.1 在线学习网站资源](#11-在线学习网站资源)
@@ -473,9 +475,19 @@
 
 * [ESLint 工具 - 中文 🇨🇳](http://javascript.ruanyifeng.com/tool/lint.html)
 
-### 9. 综合巩固
+### 9. HTTP
 
-#### 9.1 视频资源
+#### 9.1 在线学习网站资源
+
+* [HTTP 开发文档(Mozilla) - 中文 🇨🇳](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+
+* [HTTP 开发文档(Mozilla) - 英文 US](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+* [腾讯云开发者手册(HTTP) - 中文 CN](https://cloud.tencent.com/developer/doc/1201)
+
+### 10. 综合巩固
+
+#### 10.1 视频资源
 
 * [全面系统讲解CSS 工作应用+面试一步搞定](https://coding.imooc.com/class/chapter/164.html#Anchor)
     * [百度云下载地址 (密码 : 8cwu)](https://pan.baidu.com/s/1UpcOLhMTaQ1GOJ8AY610dg)
