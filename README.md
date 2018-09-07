@@ -521,10 +521,7 @@
     * [哔哩哔哩在线播放](https://www.bilibili.com/video/av26939737?from=search&seid=5141296023366229273)
 
 #### Angular.js 资源
-<<<<<<< HEAD
 * [Angular2 视频教程 Angular.js 布道师--大漠穷秋](https://www.bilibili.com/video/av16953560?from=search&seid=16138861730019816559)
-=======
->>>>>>> 7ea5b040efcd094b739d5664c93c4db028e8c54e
 
 #### React.js 资源
 
