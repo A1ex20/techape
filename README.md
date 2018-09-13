@@ -45,11 +45,12 @@
         - [9.1 在线学习网站资源](#91-在线学习网站资源)
     - [10. 综合巩固](#10-综合巩固)
     	- [10.1 视频资源](#10-视频资源)
+
   - [奔向时髦前端开发者的阵容](#奔向时髦前端开发者的阵容)
     - [1. 选择一个你喜欢的前端框架！(Vue.js | Angular.js | React.js)](#1-选择一个你喜欢的前端框架vuejs-angularjs-reactjs)
     	- [1.1 在线学习网站资源](#11-在线学习网站资源)
-      - [1.2 视频资源](#12-视频资源)
-    - [2. 前端测试工具 (Jest | Mocha | ... )](#2-前端测试工具 (Jest | Mocha | ... ))
+        - [1.2 视频资源](#12-视频资源)
+    - [2. 前端测试工具 (Jest | Mocha | ... )](#2-前端测试工具)
     - [3. 前端实战项目](#3-前端实战项目)
 
 <!-- /TOC -->
@@ -571,4 +572,11 @@
 ```
 
 ### 3. 前端实战项目
-
+#### Vue.js 实战
+* [Vue2.5开发去哪儿网App 
+从零基础入门到实战项目](https://coding.imooc.com/class/203.html)
+    * [百度云下载地址 (密码 : juz8)](https://pan.baidu.com/s/1lvi-bnPuiIr4W85VxkqgEA)
+    
+#### React.js 实战
+* [React 16.4 开发简书项目](https://coding.imooc.com/class/229.html)
+  * [百度云下载地址 (密码: mpm3)](https://pan.baidu.com/s/1AIDCbhwGZP-hGPStu51EIQ) 
